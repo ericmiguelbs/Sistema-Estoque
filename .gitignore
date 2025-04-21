@@ -1,0 +1,4 @@
+itens.db
+db\__pycache__
+sistema\__pycache__
+*__pycache__
